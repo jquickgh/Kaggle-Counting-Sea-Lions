@@ -12,4 +12,4 @@ Applying Computer Vision and Deep Learning to automate the population count for 
 
 [Kaggle Score](https://www.kaggle.com/jasonquick)
 
-<a href="url"><img src="./github_pics/sea_lion_rank.png" align="left" width="48" ></a>
+<a href="url"><img src="./github_pics/sea_lion_rank.png" align="left" width="1000" ></a>
