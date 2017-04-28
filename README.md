@@ -7,6 +7,9 @@ Applying Computer Vision and Deep Learning to automate the population count for 
 [im02]: ./github_pics/kaggle_sea_lion_rank_22.png "Kaggle Sea Lion Rank"
 
 ![alt text][im01]
-![alt text][im02]
 
 [Kaggle Score](https://www.kaggle.com/jasonquick)
+
+![alt text][im02]
+
+
