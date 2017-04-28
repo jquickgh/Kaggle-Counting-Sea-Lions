@@ -4,7 +4,7 @@ Applying Computer Vision and Deep Learning to automate the population count for 
 [//]: # (Image References)
 
 [im01]: ./github_pics/sea_lion_banner.jpg "Sea Lion Banner"
-[im02]: ./github_pics/kaggle_sea_lion_rank_22.jpg "Kaggle Sea Lion Rank"
+[im02]: ./github_pics/kaggle_sea_lion_rank_22.png "Kaggle Sea Lion Rank"
 
 ![alt text][im01]
 ![alt text][im02]
